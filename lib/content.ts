@@ -17,7 +17,7 @@ export const profile = {
   location: "New York, NY",
   // Drop your photo in /public (e.g. public/headshot.jpg) and set the path here.
   // Leave as "" to show the placeholder oval. Portrait crops look best (~4:5).
-  headshot: "",
+  headshot: "/headshot.jpg",
   headline:
     "The systems, data, and process that turn go-to-market motion into predictable revenue.",
   lead:
